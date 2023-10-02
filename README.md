@@ -14,3 +14,7 @@ modules used in the code are follows:
 -string is used to get digits, letters, punctuations without typing all required things.
 -random is used to shuffle the password.
 -pyperclip is used to help copying the generated password. 
+
+you'll get the .exe file and the .py file and you can also download the .exe file and test the file.
+
+# feel free to contribute to the code.
